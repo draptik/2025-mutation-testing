@@ -1,0 +1,42 @@
+{
+  "stryker-config": {
+    "concurrency": 8,
+    "mutation-level": "Complete",
+    "mutate": [
+      "**/Misc.cs"
+    ],
+    "solution": "StrykerDemos.sln",
+    "project": "StrykerDemos.MyLib.csproj",
+    "coverage-analysis": "off",
+    "disable-bail": false,
+    "disable-mix-mutants": false,
+    "thresholds": {
+      "high": 80,
+      "low": 60,
+      "break": 0
+    },
+    "verbosity": "debug",
+    "reporters": [
+      "Progress",
+      "Html",
+      "cleartexttree"
+    ],
+    "since": {
+      "enabled": false,
+      "ignore-changes-in": [],
+      "target": "master"
+    },
+    "baseline": {
+      "enabled": false,
+      "provider": "disk",
+      "azure-fileshare-url": "",
+      "fallback-version": "master"
+    },
+    "test-projects": [],
+    "test-case-filter": "",
+    "ignore-mutations": [],
+    "ignore-methods": [],
+    "report-file-name": "mutation-report",
+    "break-on-initial-test-failure": false
+  }
+}

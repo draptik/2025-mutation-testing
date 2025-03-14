@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\StrykerDemos.MyLib\StrykerDemos.MyLib.csproj"/>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+[*.cs]
+
+# Allow underscore 
+dotnet_diagnostic.CA1707.severity = none
