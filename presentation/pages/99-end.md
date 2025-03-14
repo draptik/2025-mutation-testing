@@ -10,9 +10,9 @@
 Slides 👇
 
 - QR Code or
-- <https://draptik.github.io/2024-11-ddc-mutation-testing/>
+- <https://draptik.github.io/2025-05-md-devdays-mutation-testing/>
 - sample code:
-  <https://github.com/draptik/2024-mutation-testing>
+  <https://github.com/draptik/2025-mutation-testing>
 
 <img
   class="absolute top-10 right-30 h-70"

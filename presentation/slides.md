@@ -3,8 +3,8 @@ theme: ./mathema-2023
 defaults:
   layout: "default-with-footer"
 title: 'Wir testen. Aber testen wir auch gut genug?'
-occasion: "DDC 2024"
-occasionLogoUrl: "./images/logo_ddc24.jpg"
+occasion: "MD-DevDays 2025"
+occasionLogoUrl: "./images/logo-md-devdays25.svg"
 company: "MATHEMA GmbH"
 presenter: "Patrick Drechsler"
 contact: "patrick.drechsler@mathema.de"
