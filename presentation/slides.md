@@ -262,7 +262,7 @@ image: /images/cute-zombie3.png
 
 ---
 layout: two-cols-header
-clicks: 7
+clicks: 6
 ---
 
 ## Other Reporters
@@ -277,7 +277,6 @@ clicks: 7
 - [Cleartext tree](https://stryker-mutator.io/docs/stryker-net/reporters/#cleartext-tree-reporter)
 - [Dots (for CI)](https://stryker-mutator.io/docs/stryker-net/reporters/#dots-reporter)
 - [Markdown](https://stryker-mutator.io/docs/stryker-net/reporters/#markdown-summary-reporter)
-- [Dashboard](https://stryker-mutator.io/docs/stryker-net/reporters/#dashboard-reporter)
 
 </v-clicks>
 
@@ -313,11 +312,6 @@ clicks: 7
 | 03\_Palindrome\/PalindromeChecker.cs   | 50.00%  | 2      | 2        | 0       | 0           | 2       | 1              | 2              | 2                | 7             |
 
 </div>
-
-<img v-click="[7]"
-  class="absolute top-10 h-75"
-  src="/images/stryker-dashboard.png"
-/>
 
 <style>
 .col-bottom {
