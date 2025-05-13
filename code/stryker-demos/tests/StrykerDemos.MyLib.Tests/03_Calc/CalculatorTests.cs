@@ -5,6 +5,7 @@ using StrykerDemos.MyLib._03_Calc;
 namespace StrykerDemos.MyLib.Tests._03_Calc;
 
 [SuppressMessage("Style", "IDE0008:Use explicit type")]
+[SuppressMessage("Style", "IDE0058:Expression value is never used")]
 public class CalculatorTests
 {
     [Fact]
