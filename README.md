@@ -5,4 +5,4 @@
 
 ## Online presentation
 
-TODO
+- [Magdeburger Developer Days 2025](https://draptik.github.io/2025-05-md-devdays-mutation-testing/)
