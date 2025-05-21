@@ -366,6 +366,15 @@ image: "/images/logo-fsharp.png"
 
 ---
 
+## Disclaimer: xUnit v3 is currently not supported
+
+⚠️ Attention: Stryker.NET currently (2025-05-21) does NOT work with xUnit v3: <https://github.com/stryker-mutator/stryker-net/issues/3117>
+
+- `VsTest`
+- `MsTest`
+
+---
+
 ## Mutation Testing: Available in many languages
 
 Overview: <https://github.com/theofidry/awesome-mutation-testing>
