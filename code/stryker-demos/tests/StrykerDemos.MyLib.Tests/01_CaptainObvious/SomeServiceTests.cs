@@ -5,6 +5,7 @@ using StrykerDemos.MyLib._01_CaptainObvious;
 namespace StrykerDemos.MyLib.Tests._01_CaptainObvious;
 
 [SuppressMessage("Style", "IDE0008:Use explicit type")]
+[SuppressMessage("Style", "IDE0058:Expression value is never used")]
 public class SomeServiceTests
 {
     [Fact]
