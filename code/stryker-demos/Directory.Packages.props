@@ -10,7 +10,7 @@
     </PackageVersion>
     <PackageVersion Include="FluentAssertions" Version="8.2.0" />
     <PackageVersion Include="FSharp.Core" Version="8.0.300" />
-    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.13.0" />
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.14.0" />
     <PackageVersion Include="Unquote" Version="7.0.0" />
     <PackageVersion Include="xunit.runner.visualstudio" Version="3.1.0">
       <PrivateAssets>all</PrivateAssets>
