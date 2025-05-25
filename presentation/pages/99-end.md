@@ -10,13 +10,13 @@
 Slides 👇
 
 - QR Code or
-- <https://draptik.github.io/2025-05-md-devdays-mutation-testing/>
+- <https://draptik.github.io/2025-06-codebuzz-mutation-testing/>
 - sample code:
   <https://github.com/draptik/2025-mutation-testing>
 
 <img
   class="absolute top-10 right-30 h-70"
-  src="/images/slides.png"
+  src="/images/slides-codebuzz25.png"
 />
 
 <img
