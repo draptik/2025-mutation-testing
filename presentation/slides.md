@@ -10,7 +10,6 @@ presenter: "Patrick Drechsler"
 contact: "patrick.drechsler@mathema.de"
 info: |
   ## Mutation testing
-canvasWidth: 980
 layout: cover
 transition: slide-left
 mdc: true
