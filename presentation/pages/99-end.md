@@ -1,11 +1,15 @@
 # Thank You!
 
+<div style="font-size:0.75em">
+
 - <mdi-email /> <patrick.drechsler@mathema.de>
 - <logos-github-icon /> <https://github.com/draptik>
 - <mdi-web /> <https://draptik.github.io/talks/>
 - <logos-mastodon-icon /> <https://floss.social/@drechsler>
 - <logos-bluesky/> <https://bsky.app/profile/drechsler.bsky.social>
 - <logos-linkedin-icon /> <https://www.linkedin.com/in/patrick-drechsler-draptik/>
+
+</div>
 
 Slides 👇
 
