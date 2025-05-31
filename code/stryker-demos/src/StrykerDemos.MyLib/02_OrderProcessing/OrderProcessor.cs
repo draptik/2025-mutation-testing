@@ -1,7 +1,11 @@
+using System.Diagnostics.CodeAnalysis;
+
 namespace StrykerDemos.MyLib._02_OrderProcessing;
 
 public class OrderProcessor
 {
+    [SuppressMessage("Style", "IDE0078:Use pattern matching")]
+    [SuppressMessage("ReSharper", "MergeIntoPattern")]
     public decimal ApplyDiscount(decimal orderAmount)
     {
         if (orderAmount >= 100 && orderAmount < 500)
