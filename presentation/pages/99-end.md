@@ -11,14 +11,11 @@
 
 </div>
 
-Slides
+Slides 👇
 
-- QR Code or
 - <https://draptik.github.io/2025-06-codebuzz-mutation-testing/>
 - sample code:
   <https://github.com/draptik/2025-mutation-testing>
-
-<FancyArrow x1="190" y1="335" x2="580" y2="280" color="red" arc="-0.1" />
 
 <img
   class="absolute top-10 right-30 h-70"
@@ -30,6 +27,14 @@ Slides
   src="/images/anti-nazi.png"
 />
 
-<p style="font-size:0.75em">
+<FancyArrow
+  x1="410"
+  y1="320"
+  x2="580"
+  y2="200"
+  color="red"
+  arc="0.1" />
+
+<p style="font-size:0.75em; margin-top:8em">
 Image sources: <a href="https://pixabay.com/" target="_blank">pixabay.com</a> and <a href="https://perchance.org/ai-photo-generator" target="_blank">perchance.org/ai-photo-generator</a>
 </p>
