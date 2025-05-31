@@ -14,6 +14,8 @@ layout: cover
 transition: slide-left
 mdc: true
 download: true
+addons:
+  - fancy-arrow
 
 src: ./pages/00-title.md
 ---
